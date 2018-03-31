@@ -53,7 +53,7 @@ Potential_Materials = []
 Leaderboard = {}
 ##########################################################################
 
-# Graphics 
+# Graphics
 def Night_Sequence():
     Night_Falls = ["Night Falls."]
     Night_Falls_Print = []
